@@ -10,6 +10,7 @@ list comprehension:
 -----------------------
 
 enumerate() => retorna uma lista de tupla de uma lista,  em que cada elemento x tem um indice y
+zip () => retorna a união de duas listas pelo indice. Exemplo: [1,2,3] e [4,5,6] > [(1,4),(2,5)...]
 
 -----------------------
 
