@@ -16,3 +16,5 @@ zip () => retorna a união de duas listas pelo indice. Exemplo: [1,2,3] e [4,5,6
 
 
 try except finnaly
+
+-- Matplotlib -> biblioteca para gráficos 
